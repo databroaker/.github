@@ -2,7 +2,7 @@
 
 What you will find here:
 
-- Web scraping
+- Web Scraping
 - Automation
 - OSINT
 - Hacking
